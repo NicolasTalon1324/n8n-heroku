@@ -11,3 +11,7 @@ Use the **Deploy to Heroku** button above to launch n8n on Heroku. When deployin
 Refer to the [Heroku n8n tutorial](https://docs.n8n.io/hosting/server-setups/heroku/) for more information.
 
 If you have questions after trying the tutorials, check out the [forums](https://community.n8n.io/).
+
+---
+
+update du jour: 2025-08-19
